@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Magic Answer</string>
+
+    <!-- LABELS -->
+    <string name="enter_request">Enter your question here.</string>
+    <string name="answer">Shake your device to see the \n answer to your question.</string>
+
+    <!-- POSSIBLE MAGIC ANSWERS -->
+    <string-array name="magic_answer_list">
+        <item>Cannot say at this time.</item>
+        <item>It is not possible.</item>
+        <item>Have some California raisins and ask again.</item>
+        <item>Do not know.</item>
+        <item>No no and no.</item>
+        <item>Sure, it is always possible.</item>
+        <item>Eventually.</item>
+        <item>Perhaps, if the year was 1930.</item>
+        <item>Just assume a yes and see what happens.</item>
+        <item>Put it out of your mind.</item>
+    </string-array>
+
+</resources>
