@@ -30,6 +30,7 @@
             android:layout_centerVertical="true"
             android:gravity="center_horizontal"
             android:hint="@string/enter_request"
+            android:textSize="14sp"
             android:inputType="textCapCharacters|textMultiLine"/>
     </RelativeLayout>
 
